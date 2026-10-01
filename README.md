@@ -3,7 +3,7 @@
 I'm a passionate developer and ML enthusiast focused on building intelligent systems that solve real-world problems.
 
 ## About Me
-- Interested in Machine Learning, Graph Neural Networks, and scientific AI
+- Interested in Machine Learning and scientific AI
 - Working at the intersection of AI and materials discovery
 - Experienced with Python, PyTorch, and data-driven experimentation
 - Always learning, exploring, and building projects with real impact
