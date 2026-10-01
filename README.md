@@ -42,12 +42,13 @@ A predictive modeling project for estimating the net electrical output of a comb
 Repository: https://github.com/rajravishantanu-svg/combined-cycle-power-plant-prediction
 
 ### CO2 Emission Prediction for Vehicles
-A data science project focused on predicting vehicle CO2 emissions from engineering and operational parameters.
+A practical machine learning project designed to estimate vehicle CO2 emissions from vehicle attributes and performance-related features. The goal is to understand how engineering and operational characteristics influence emissions and to build a reliable regression model that can support greener mobility decisions.
 
-- Predictive analytics
-- Environmental impact modeling
-- Regression and model evaluation
-- Practical applied ML
+- Vehicle emissions modeling
+- Regression and predictive analytics
+- Feature engineering and exploratory analysis
+- Sustainability and environmental impact assessment
+- Applied ML for transportation and climate-related insights
 
 Repository: https://github.com/rajravishantanu-svg/Co2-emission-Prediction-for-Vehicles
 
