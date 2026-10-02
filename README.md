@@ -11,15 +11,15 @@ I build machine learning systems that turn real-world data into actionable insig
 
 ## Featured Work
 
-### Materials Discovery GNN
-A graph-based machine learning project focused on predicting material properties from crystal structures using Materials Project data.
+### Materials Discovery Using ML
+A Band gap prediction of material using data from Material Project Api key and train XGBoost ,Random Forest9dels on it
 
-- Graph neural networks
+- XG Boost,Random Forest
 - Materials informatics
 - Scientific ML workflows
-- PyTorch / Python
+- Python
 
-Repository: https://github.com/rajravishantanu-svg/materials-discovery-gnn
+Repository: https://github.com/rajravishantanu-svg/materials-discovery
 
 ### Chandigarh AQI Analysis & Prediction
 An air quality forecasting and analysis project using CPCB monitoring data from Chandigarh to study pollution trends and predict AQI.
