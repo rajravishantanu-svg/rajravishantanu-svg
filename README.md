@@ -68,7 +68,6 @@ Repository: https://github.com/rajravishantanu-svg/Co2-emission-Prediction-for-V
 
 ### Tools & Workflow
 - Git and GitHub
-- Docker
 - Conda
 - VS Code
 - Linux / terminal workflows
