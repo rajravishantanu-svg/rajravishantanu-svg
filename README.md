@@ -1,4 +1,4 @@
-# Hi, I'm Ravishantanu
+# Hi, I'm Raviraj Shantanu
 
 I build machine learning systems that turn real-world data into actionable insight — especially in scientific, environmental, and predictive modeling domains.
 
