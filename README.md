@@ -55,7 +55,6 @@ Repository: https://github.com/rajravishantanu-svg/Co2-emission-Prediction-for-V
 ## Skills
 ### Languages
 - Python
-- Bash
 
 ### ML / Data Science
 - PyTorch
