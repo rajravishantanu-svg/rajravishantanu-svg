@@ -3,7 +3,7 @@
 I build machine learning systems that turn real-world data into actionable insight — especially in scientific, environmental, and predictive modeling domains.
 
 ## About Me
-- ML engineer and data-driven problem solver
+- ML enthusiast and data-driven problem solver
 - Interested in scientific AI, materials informatics, and sustainability
 - Experienced in Python, PyTorch, and end-to-end data science workflows
 - Passionate about building models that help people make better decisions
